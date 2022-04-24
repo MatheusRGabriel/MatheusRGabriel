@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 ## Oiii eu sou a Matheus Gabriel, Estudante e criador de conteúdo de programação e tecnologia!
 <div align="center">
   <a href="https://github.com/MatheusRGabriel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusRGabriel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusRGabriel&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MatheusRGabriel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusRGabriel&layout=compact&langs_count=7&theme=dracula"/>
 </div>
